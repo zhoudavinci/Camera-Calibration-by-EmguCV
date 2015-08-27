@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Camera Calibration EmguCV", "Camera Calibration EmguCV\Camera Calibration EmguCV.csproj", "{A2C39B8E-EC10-45E2-AAB3-4FE8B85F3084}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2C39B8E-EC10-45E2-AAB3-4FE8B85F3084}.Debug|x86.ActiveCfg = Debug|x86
+		{A2C39B8E-EC10-45E2-AAB3-4FE8B85F3084}.Debug|x86.Build.0 = Debug|x86
+		{A2C39B8E-EC10-45E2-AAB3-4FE8B85F3084}.Release|x86.ActiveCfg = Release|x86
+		{A2C39B8E-EC10-45E2-AAB3-4FE8B85F3084}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

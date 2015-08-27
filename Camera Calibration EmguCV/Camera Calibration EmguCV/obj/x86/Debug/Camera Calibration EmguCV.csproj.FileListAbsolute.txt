@@ -1,0 +1,94 @@
+C:\Users\Zhou\Desktop\EmguCV\Camera Calibration EmguCV\Camera Calibration EmguCV\bin\Debug\Camera Calibration EmguCV.exe
+C:\Users\Zhou\Desktop\EmguCV\Camera Calibration EmguCV\Camera Calibration EmguCV\bin\Debug\Camera Calibration EmguCV.pdb
+C:\Users\Zhou\Desktop\EmguCV\Camera Calibration EmguCV\Camera Calibration EmguCV\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Zhou\Desktop\EmguCV\Camera Calibration EmguCV\Camera Calibration EmguCV\obj\x86\Debug\Camera_Calibration_EmguCV.Properties.Resources.resources
+C:\Users\Zhou\Desktop\EmguCV\Camera Calibration EmguCV\Camera Calibration EmguCV\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Zhou\Desktop\EmguCV\Camera Calibration EmguCV\Camera Calibration EmguCV\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Zhou\Desktop\EmguCV\Camera Calibration EmguCV\Camera Calibration EmguCV\obj\x86\Debug\Camera Calibration EmguCV.exe
+C:\Users\Zhou\Desktop\EmguCV\Camera Calibration EmguCV\Camera Calibration EmguCV\obj\x86\Debug\Camera Calibration EmguCV.pdb
+C:\Users\Zhou\Desktop\EmguCV\Camera Calibration EmguCV\Camera Calibration EmguCV\bin\Debug\Emgu.CV.dll
+C:\Users\Zhou\Desktop\EmguCV\Camera Calibration EmguCV\Camera Calibration EmguCV\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Zhou\Desktop\EmguCV\Camera Calibration EmguCV\Camera Calibration EmguCV\bin\Debug\Emgu.Util.dll
+C:\Users\Zhou\Desktop\EmguCV\Camera Calibration EmguCV\Camera Calibration EmguCV\bin\Debug\ZedGraph.dll
+C:\Users\Zhou\Desktop\EmguCV\Camera Calibration EmguCV\Camera Calibration EmguCV\bin\Debug\Emgu.CV.xml
+C:\Users\Zhou\Desktop\EmguCV\Camera Calibration EmguCV\Camera Calibration EmguCV\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Zhou\Desktop\EmguCV\Camera Calibration EmguCV\Camera Calibration EmguCV\bin\Debug\Emgu.Util.xml
+C:\Users\Zhou\Desktop\EmguCV\Camera Calibration EmguCV\Camera Calibration EmguCV\obj\x86\Debug\Camera_Calibration_EmguCV.Form1.resources
+J:\Camera Calibration EmguCV\Camera Calibration EmguCV\obj\x86\Debug\Camera Calibration EmguCV.exe
+J:\Camera Calibration EmguCV\Camera Calibration EmguCV\obj\x86\Debug\Camera Calibration EmguCV.pdb
+J:\Camera Calibration EmguCV\Camera Calibration EmguCV\bin\Debug\Camera Calibration EmguCV.exe
+J:\Camera Calibration EmguCV\Camera Calibration EmguCV\bin\Debug\Camera Calibration EmguCV.pdb
+J:\Camera Calibration EmguCV\Camera Calibration EmguCV\bin\Debug\ZedGraph.dll
+J:\Camera Calibration EmguCV\Camera Calibration EmguCV\bin\Debug\Emgu.CV.xml
+J:\Camera Calibration EmguCV\Camera Calibration EmguCV\bin\Debug\Emgu.CV.UI.xml
+J:\Camera Calibration EmguCV\Camera Calibration EmguCV\bin\Debug\Emgu.Util.xml
+J:\Camera Calibration EmguCV\Camera Calibration EmguCV\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Camera Calibration EmguCV\Camera Calibration EmguCV\obj\x86\Debug\Camera_Calibration_EmguCV.Form1.resources
+J:\Camera Calibration EmguCV\Camera Calibration EmguCV\obj\x86\Debug\Camera_Calibration_EmguCV.Properties.Resources.resources
+J:\Camera Calibration EmguCV\Camera Calibration EmguCV\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\Camera Calibration EmguCV\Camera Calibration EmguCV\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Zhou\Desktop\Camera Calibration EmguCV\Camera Calibration EmguCV\obj\x86\Debug\Camera Calibration EmguCV.exe
+C:\Users\Zhou\Desktop\Camera Calibration EmguCV\Camera Calibration EmguCV\obj\x86\Debug\Camera Calibration EmguCV.pdb
+C:\Users\Zhou\Desktop\Camera Calibration EmguCV\Camera Calibration EmguCV\bin\Debug\Camera Calibration EmguCV.exe
+C:\Users\Zhou\Desktop\Camera Calibration EmguCV\Camera Calibration EmguCV\bin\Debug\Camera Calibration EmguCV.pdb
+C:\Users\Zhou\Desktop\Camera Calibration EmguCV\Camera Calibration EmguCV\bin\Debug\ZedGraph.dll
+C:\Users\Zhou\Desktop\Camera Calibration EmguCV\Camera Calibration EmguCV\bin\Debug\Emgu.CV.xml
+C:\Users\Zhou\Desktop\Camera Calibration EmguCV\Camera Calibration EmguCV\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Zhou\Desktop\Camera Calibration EmguCV\Camera Calibration EmguCV\bin\Debug\Emgu.Util.xml
+C:\Users\Zhou\Desktop\Camera Calibration EmguCV\Camera Calibration EmguCV\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Zhou\Desktop\Camera Calibration EmguCV\Camera Calibration EmguCV\obj\x86\Debug\Camera_Calibration_EmguCV.Form1.resources
+C:\Users\Zhou\Desktop\Camera Calibration EmguCV\Camera Calibration EmguCV\obj\x86\Debug\Camera_Calibration_EmguCV.Properties.Resources.resources
+C:\Users\Zhou\Desktop\Camera Calibration EmguCV\Camera Calibration EmguCV\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Zhou\Desktop\Camera Calibration EmguCV\Camera Calibration EmguCV\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Zhou\Desktop\EmguCV\Camera Calibration EmguCV - 副本\Camera Calibration EmguCV\obj\x86\Debug\Camera Calibration EmguCV.exe
+C:\Users\Zhou\Desktop\EmguCV\Camera Calibration EmguCV - 副本\Camera Calibration EmguCV\obj\x86\Debug\Camera Calibration EmguCV.pdb
+C:\Users\Zhou\Desktop\EmguCV\Camera Calibration EmguCV - 副本\Camera Calibration EmguCV\bin\Debug\Camera Calibration EmguCV.exe
+C:\Users\Zhou\Desktop\EmguCV\Camera Calibration EmguCV - 副本\Camera Calibration EmguCV\bin\Debug\Camera Calibration EmguCV.pdb
+C:\Users\Zhou\Desktop\EmguCV\Camera Calibration EmguCV - 副本\Camera Calibration EmguCV\bin\Debug\Emgu.CV.dll
+C:\Users\Zhou\Desktop\EmguCV\Camera Calibration EmguCV - 副本\Camera Calibration EmguCV\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Zhou\Desktop\EmguCV\Camera Calibration EmguCV - 副本\Camera Calibration EmguCV\bin\Debug\Emgu.Util.dll
+C:\Users\Zhou\Desktop\EmguCV\Camera Calibration EmguCV - 副本\Camera Calibration EmguCV\bin\Debug\ZedGraph.dll
+C:\Users\Zhou\Desktop\EmguCV\Camera Calibration EmguCV - 副本\Camera Calibration EmguCV\bin\Debug\Emgu.CV.xml
+C:\Users\Zhou\Desktop\EmguCV\Camera Calibration EmguCV - 副本\Camera Calibration EmguCV\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Zhou\Desktop\EmguCV\Camera Calibration EmguCV - 副本\Camera Calibration EmguCV\bin\Debug\Emgu.Util.xml
+C:\Users\Zhou\Desktop\EmguCV\Camera Calibration EmguCV - 副本\Camera Calibration EmguCV\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Zhou\Desktop\EmguCV\Camera Calibration EmguCV - 副本\Camera Calibration EmguCV\obj\x86\Debug\Camera_Calibration_EmguCV.Calibration.resources
+C:\Users\Zhou\Desktop\EmguCV\Camera Calibration EmguCV - 副本\Camera Calibration EmguCV\obj\x86\Debug\Camera_Calibration_EmguCV.Form1.resources
+C:\Users\Zhou\Desktop\EmguCV\Camera Calibration EmguCV - 副本\Camera Calibration EmguCV\obj\x86\Debug\Camera_Calibration_EmguCV.Properties.Resources.resources
+C:\Users\Zhou\Desktop\EmguCV\Camera Calibration EmguCV - 副本\Camera Calibration EmguCV\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Zhou\Desktop\EmguCV\Camera Calibration EmguCV - 副本\Camera Calibration EmguCV\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Zhou\Desktop\EmguCV\Camera Calibration EmguCV - 副本 - 副本\Camera Calibration EmguCV\obj\x86\Debug\Camera Calibration EmguCV.exe
+C:\Users\Zhou\Desktop\EmguCV\Camera Calibration EmguCV - 副本 - 副本\Camera Calibration EmguCV\obj\x86\Debug\Camera Calibration EmguCV.pdb
+C:\Users\Zhou\Desktop\EmguCV\Camera Calibration EmguCV - 副本 - 副本\Camera Calibration EmguCV\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Zhou\Desktop\EmguCV\Camera Calibration EmguCV - 副本 - 副本\Camera Calibration EmguCV\obj\x86\Debug\Camera_Calibration_EmguCV.Form1.resources
+C:\Users\Zhou\Desktop\EmguCV\Camera Calibration EmguCV - 副本 - 副本\Camera Calibration EmguCV\obj\x86\Debug\Camera_Calibration_EmguCV.Properties.Resources.resources
+C:\Users\Zhou\Desktop\EmguCV\Camera Calibration EmguCV - 副本 - 副本\Camera Calibration EmguCV\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Zhou\Desktop\EmguCV\Camera Calibration EmguCV - 副本 - 副本\Camera Calibration EmguCV\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Zhou\Desktop\EmguCV\Camera Calibration EmguCV - 副本 - 副本\Camera Calibration EmguCV\bin\Debug\Camera Calibration EmguCV.exe
+C:\Users\Zhou\Desktop\EmguCV\Camera Calibration EmguCV - 副本 - 副本\Camera Calibration EmguCV\bin\Debug\Camera Calibration EmguCV.pdb
+C:\Users\Zhou\Desktop\EmguCV\Camera Calibration EmguCV - 副本 - 副本\Camera Calibration EmguCV\bin\Debug\Emgu.CV.dll
+C:\Users\Zhou\Desktop\EmguCV\Camera Calibration EmguCV - 副本 - 副本\Camera Calibration EmguCV\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Zhou\Desktop\EmguCV\Camera Calibration EmguCV - 副本 - 副本\Camera Calibration EmguCV\bin\Debug\Emgu.Util.dll
+C:\Users\Zhou\Desktop\EmguCV\Camera Calibration EmguCV - 副本 - 副本\Camera Calibration EmguCV\bin\Debug\ZedGraph.dll
+C:\Users\Zhou\Desktop\EmguCV\Camera Calibration EmguCV - 副本 - 副本\Camera Calibration EmguCV\bin\Debug\Emgu.CV.xml
+C:\Users\Zhou\Desktop\EmguCV\Camera Calibration EmguCV - 副本 - 副本\Camera Calibration EmguCV\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Zhou\Desktop\EmguCV\Camera Calibration EmguCV - 副本 - 副本\Camera Calibration EmguCV\bin\Debug\Emgu.Util.xml
+C:\Users\Zhou\Desktop\EmguCV\Camera Calibration EmguCV - 副本 - 副本\Camera Calibration EmguCV\bin\Debug\ZedGraph.xml
+C:\Users\Zhou\Desktop\EmguCV\Camera Calibration EmguCV - 副本 - 副本\Camera Calibration EmguCV\bin\Debug\zh-CN\ZedGraph.resources.dll
+F:\EmguCV\Camera Calibration EmguCV - 副本 - 副本\Camera Calibration EmguCV\obj\x86\Debug\Camera Calibration EmguCV.exe
+F:\EmguCV\Camera Calibration EmguCV - 副本 - 副本\Camera Calibration EmguCV\obj\x86\Debug\Camera Calibration EmguCV.pdb
+F:\EmguCV\Camera Calibration EmguCV - 副本 - 副本\Camera Calibration EmguCV\bin\Debug\Camera Calibration EmguCV.exe
+F:\EmguCV\Camera Calibration EmguCV - 副本 - 副本\Camera Calibration EmguCV\bin\Debug\Camera Calibration EmguCV.pdb
+F:\EmguCV\Camera Calibration EmguCV - 副本 - 副本\Camera Calibration EmguCV\bin\Debug\Emgu.CV.dll
+F:\EmguCV\Camera Calibration EmguCV - 副本 - 副本\Camera Calibration EmguCV\bin\Debug\Emgu.CV.UI.dll
+F:\EmguCV\Camera Calibration EmguCV - 副本 - 副本\Camera Calibration EmguCV\bin\Debug\Emgu.Util.dll
+F:\EmguCV\Camera Calibration EmguCV - 副本 - 副本\Camera Calibration EmguCV\bin\Debug\ZedGraph.dll
+F:\EmguCV\Camera Calibration EmguCV - 副本 - 副本\Camera Calibration EmguCV\bin\Debug\Emgu.CV.xml
+F:\EmguCV\Camera Calibration EmguCV - 副本 - 副本\Camera Calibration EmguCV\bin\Debug\Emgu.CV.UI.xml
+F:\EmguCV\Camera Calibration EmguCV - 副本 - 副本\Camera Calibration EmguCV\bin\Debug\Emgu.Util.xml
+F:\EmguCV\Camera Calibration EmguCV - 副本 - 副本\Camera Calibration EmguCV\bin\Debug\ZedGraph.xml
+F:\EmguCV\Camera Calibration EmguCV - 副本 - 副本\Camera Calibration EmguCV\bin\Debug\zh-CN\ZedGraph.resources.dll
+F:\EmguCV\Camera Calibration EmguCV - 副本 - 副本\Camera Calibration EmguCV\obj\x86\Debug\Camera_Calibration_EmguCV.Form1.resources
+F:\EmguCV\Camera Calibration EmguCV - 副本 - 副本\Camera Calibration EmguCV\obj\x86\Debug\Camera_Calibration_EmguCV.Properties.Resources.resources
+F:\EmguCV\Camera Calibration EmguCV - 副本 - 副本\Camera Calibration EmguCV\obj\x86\Debug\Camera Calibration EmguCV.csprojResolveAssemblyReference.cache
+F:\EmguCV\Camera Calibration EmguCV - 副本 - 副本\Camera Calibration EmguCV\obj\x86\Debug\Camera Calibration EmguCV.csproj.GenerateResource.Cache
